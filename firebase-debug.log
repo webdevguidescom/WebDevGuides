@@ -1,0 +1,15 @@
+[debug] [2024-07-12T21:49:45.617Z] ----------------------------------------------------------------------
+[debug] [2024-07-12T21:49:45.646Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2024-07-12T21:49:45.647Z] CLI Version:   13.11.2
+[debug] [2024-07-12T21:49:45.647Z] Platform:      darwin
+[debug] [2024-07-12T21:49:45.647Z] Node Version:  v20.12.2
+[debug] [2024-07-12T21:49:45.647Z] Time:          Fri Jul 12 2024 22:49:45 GMT+0100 (British Summer Time)
+[debug] [2024-07-12T21:49:45.648Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-12T21:49:45.650Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2024-07-12T21:49:50.814Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:267:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
